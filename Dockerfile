@@ -1,3 +1,4 @@
+
 FROM openjdk:8
 EXPOSE 8888
 ADD target/simple-java-project.jar simple-java-project.jar
